@@ -9,7 +9,7 @@ modified: '2020-11-01T16:24:55.917Z'
 Kitchen Sink 
 
 
-# JavaScript Kitchen Sink
+# JavaScript Kitchen Sink Lab
 The objective of this lab assignment is to practice using the fundamentals of JavaScript that were explored in lecture.
 
 
